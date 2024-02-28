@@ -30,5 +30,5 @@ This game requires Python to be installed on your machine. No additional librari
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/guessing-diamond-game.git
+   git clone https://github.com/solivus/guessing-diamond-game.git
    cd guessing-diamond-game
