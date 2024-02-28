@@ -1,10 +1,10 @@
 # Diamond Guessing Game
 
-Welcome to the Guessing Diamond Game! 🎉 This is a simple game designed for beginners to learn the basics of Object-Oriented Programming (OOP) in Python.
+Welcome to the Diamond Guessing Game! 🎉 This is a simple game designed for beginners to learn the basics of Object-Oriented Programming (OOP) in Python.
 
 ## Introduction
 
-The Guessing Diamond Game is a fun and interactive way to practice your coding skills while enjoying a classic guessing game. The game involves guessing the correct position of a diamond hidden behind closed hands. With a user-friendly interface and minimalistic design, it's perfect for those who are new to programming.
+The Diamond Guessing Game is a fun and interactive way to practice your coding skills while enjoying a classic guessing game. The game involves guessing the correct position of a diamond hidden behind closed hands. With a user-friendly interface and minimalistic design, it's perfect for those who are new to programming.
 
 ## How to Play
 
