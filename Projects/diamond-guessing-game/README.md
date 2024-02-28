@@ -1,4 +1,4 @@
-# Guessing Diamond Game
+# Diamond Guessing Game
 
 Welcome to the Guessing Diamond Game! 🎉 This is a simple game designed for beginners to learn the basics of Object-Oriented Programming (OOP) in Python.
 
@@ -24,11 +24,3 @@ The Guessing Diamond Game is a fun and interactive way to practice your coding s
 ## Dependencies
 
 This game requires Python to be installed on your machine. No additional libraries or modules are needed.
-
-## Usage
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/solivus/guessing-diamond-game.git
-   cd guessing-diamond-game
